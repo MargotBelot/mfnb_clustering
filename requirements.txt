@@ -7,3 +7,6 @@ geopy
 sphinx
 kneed
 scikit-learn-extra
+gensim
+pandas 
+plotly
