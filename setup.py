@@ -4,11 +4,6 @@ from setuptools import setup, find_packages
 
 setup(
     name='mfnb',
-    description='A Python package from the Natural History Museum of Berlin'
-                ' for digitalized specimen label classification.',
-    url='https://github.com/joel-tuberosa/python-mfnb',
-    author='Joel Tuberosa',
-    author_email='joel.tuberosa@unige.ch',
     license='GNU',
     install_requires=[
           'nltk',
