@@ -1,6 +1,5 @@
 mfnb
 ========================================================================
-*A Python package for the Berlin Natural History Museum*
 
 .. contents ::
 
